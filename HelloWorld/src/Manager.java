@@ -1,6 +1,7 @@
 
 public class Manager extends Employee{
 	
+	
 	String jobOfManage;
 	
 	// print() 메소드 오버라이딩
